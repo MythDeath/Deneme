@@ -6,6 +6,7 @@ import os
 import threading
 import random
 import sys
+import os
 
 os.system('cls' if os.name == 'nt' else 'clear')
 
